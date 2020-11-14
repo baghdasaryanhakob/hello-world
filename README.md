@@ -1,2 +1,2 @@
-# hello-world
-This is my first repository
+Hey everyone. My name is Hakob.
+This is my first repository on GitHub.
